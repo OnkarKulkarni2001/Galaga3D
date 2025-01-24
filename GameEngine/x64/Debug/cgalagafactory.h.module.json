@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\cGalagaFactory.h.obj",
+            "outputs": [
+                "D:\\GameEngineFrameworksorPatterns\\Project_01\\GameEngine\\GameEngine\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "D:\\GameEngineFrameworksorPatterns\\Project_01\\GameEngine\\GameEngine\\x64\\Debug\\cGalagaFactory.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "cGalagaFactory.h",
+                    "source-path": "d:\\gameengineframeworksorpatterns\\project_01\\gameengine\\gameengine\\cgalagafactory.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+number_of_meshes 3
+
+mesh_paths
+"..\assets\Galaga\Galaga_Sprite_Ship_projectile_B_0.ply"
+"..\assets\Galaga\Galaga_Sprite_Ship_projectile_B_1.ply"
+"..\assets\Galaga\Galaga_Sprite_Ship_projectile_B_2.ply"
+
+mesh_transforms
+0.0 0.0 0.0  1 2 1  180 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 

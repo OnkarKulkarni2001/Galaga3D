@@ -1,0 +1,19 @@
+number_of_meshes 7
+
+mesh_paths
+"..\assets\Galaga\Galaga_Sprite_Row_9_Col_0_AlienDragonfly.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_9_Col_1_AlienDragonfly.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_9_Col_2_AlienDragonfly.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_9_Col_3_AlienDragonfly.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_9_Col_4_AlienDragonfly.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_9_Col_5_AlienDragonfly.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_9_Col_6_AlienDragonfly.ply"
+
+mesh_transforms
+1900.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 

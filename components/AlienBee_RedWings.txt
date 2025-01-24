@@ -1,0 +1,20 @@
+number_of_meshes 7
+
+mesh_paths
+"..\assets\Galaga\Galaga_Sprite_Row_4_Col_0_AlienBee_RedWings.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_4_Col_1_AlienBee_RedWings.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_4_Col_2_AlienBee_RedWings.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_4_Col_3_AlienBee_RedWings.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_4_Col_4_AlienBee_RedWings.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_4_Col_5_AlienBee_RedWings.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_4_Col_6_AlienBee_RedWings.ply"
+
+mesh_transforms
+1400.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+

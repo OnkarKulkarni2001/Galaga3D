@@ -1,0 +1,20 @@
+number_of_meshes 7
+
+mesh_paths
+
+"..\assets\Galaga\Galaga_Sprite_Row_1_Col_0_PlayerShip_Red.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_1_Col_1_PlayerShip_Red.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_1_Col_2_PlayerShip_Red.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_1_Col_3_PlayerShip_Red.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_1_Col_4_PlayerShip_Red.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_1_Col_5_PlayerShip_Red.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_1_Col_6_PlayerShip_Red.ply"
+
+mesh_transforms
+1000.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 

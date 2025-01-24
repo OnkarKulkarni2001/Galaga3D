@@ -1,0 +1,13 @@
+number_of_meshes 4
+
+mesh_paths
+"..\assets\Galaga\Galaga_Sprite_Ship_Explosion_0.ply"
+"..\assets\Galaga\Galaga_Sprite_Ship_Explosion_1.ply"
+"..\assets\Galaga\Galaga_Sprite_Ship_Explosion_2.ply"
+"..\assets\Galaga\Galaga_Sprite_Ship_Explosion_3.ply"
+
+mesh_transforms
+0.0 0.0 0.0  2 2 2  0 0 0 
+0.0 0.0 0.0  2 2 2  0 0 0 
+0.0 0.0 0.0  2 2 2  0 0 0 
+0.0 0.0 0.0  2 2 2  0 0 0 

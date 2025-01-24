@@ -1,0 +1,11 @@
+number_of_meshes 3
+
+mesh_paths
+"..\assets\Galaga\Galaga_Sprite_Ship_Tractor_Beam_0.ply"
+"..\assets\Galaga\Galaga_Sprite_Ship_Tractor_Beam_1.ply"
+"..\assets\Galaga\Galaga_Sprite_Ship_Tractor_Beam_2.ply"
+
+mesh_transforms
+2400.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
