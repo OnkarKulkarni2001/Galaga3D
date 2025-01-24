@@ -1,0 +1,19 @@
+number_of_meshes 7
+
+mesh_paths
+"..\assets\Galaga\Galaga_Sprite_Row_6_Col_0_AlienShip_A.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_6_Col_1_AlienShip_A.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_6_Col_2_AlienShip_A.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_6_Col_3_AlienShip_A.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_6_Col_4_AlienShip_A.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_6_Col_5_AlienShip_A.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_6_Col_6_AlienShip_A.ply"
+
+mesh_transforms
+1600.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 

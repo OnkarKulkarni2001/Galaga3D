@@ -1,0 +1,18 @@
+number_of_meshes 6
+
+mesh_paths
+"..\assets\Galaga\Galaga_Sprite_Award_0.ply"
+"..\assets\Galaga\Galaga_Sprite_Award_1.ply"
+"..\assets\Galaga\Galaga_Sprite_Award_2.ply"
+"..\assets\Galaga\Galaga_Sprite_Award_3.ply"
+"..\assets\Galaga\Galaga_Sprite_Award_4.ply"
+"..\assets\Galaga\Galaga_Sprite_Award_5.ply"
+
+mesh_transforms
+2600.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+
