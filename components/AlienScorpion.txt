@@ -1,0 +1,19 @@
+number_of_meshes 7
+
+mesh_paths
+"..\assets\Galaga\Galaga_Sprite_Row_7_Col_0_AlienScorpion.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_7_Col_1_AlienScorpion.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_7_Col_2_AlienScorpion.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_7_Col_3_AlienScorpion.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_7_Col_4_AlienScorpion.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_7_Col_5_AlienScorpion.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_7_Col_6_AlienScorpion.ply"
+
+mesh_transforms
+1700.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 

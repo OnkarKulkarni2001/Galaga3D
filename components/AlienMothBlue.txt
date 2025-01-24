@@ -1,0 +1,19 @@
+number_of_meshes 7
+
+mesh_paths
+"..\assets\Galaga\Galaga_Sprite_Row_3_Col_0_AlienMoth_Blue.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_3_Col_1_AlienMoth_Blue.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_3_Col_2_AlienMoth_Blue.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_3_Col_3_AlienMoth_Blue.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_3_Col_4_AlienMoth_Blue.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_3_Col_5_AlienMoth_Blue.ply"
+"..\assets\Galaga\Galaga_Sprite_Row_3_Col_6_AlienMoth_Blue.ply"
+
+mesh_transforms
+1300.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 
+0.0 0.0 0.0  1 1 1  0 0 0 

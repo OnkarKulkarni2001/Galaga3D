@@ -1,0 +1,7 @@
+number_of_meshes 1
+
+mesh_paths 
+"..\assets\Galaga\star.ply"
+
+mesh_transforms
+0.0 0.0 0.0  100 100 100  0 0 0 

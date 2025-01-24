@@ -1,0 +1,12 @@
+﻿  FlyCam.cpp
+  Source.cpp
+D:\GameEngineFrameworksorPatterns\Project_01\GameEngine\GameEngine\Source.cpp(75,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\GameEngineFrameworksorPatterns\Project_01\GameEngine\GameEngine\Source.cpp(106,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\GameEngineFrameworksorPatterns\Project_01\GameEngine\GameEngine\Source.cpp(61,18): warning C4101: 'renderer': unreferenced local variable
+x64\Release\cGalagaFactory.obj : warning LNK4042: object specified more than once; extras ignored
+  Generating code
+  3 of 919 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    25 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GameEngine.vcxproj -> D:\GameEngineFrameworksorPatterns\Project_01\GameEngine\x64\Release\GameEngine.exe
